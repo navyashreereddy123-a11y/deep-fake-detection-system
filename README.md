@@ -103,16 +103,4 @@ deepfake_detector/
 - Fake videos: [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics)
 - Real videos: any front-facing camera footage
 
----
-
-## 👥 Team
-
-| Member | Role |
-|--------|------|
-| Member 1 | Developer — code & execution |
-| Member 2 | Report — documentation |
-| Member 3 | UI + screenshots + README |
-
----
-
-*DeepGuard · Hackathon 2025 · Explainable AI for Media Integrity*
+-
